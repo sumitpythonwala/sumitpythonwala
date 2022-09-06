@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Mahajan
+- 👋 Hi, I’m Sumit Mahajan an Energy professional with 9 years of work experience in Fertilizer & Chemical sector at Odisha India. 
 - 👀 I’m interested in python, selenium, jira, web development, github, data science, machine learning, reactjs
 - 🌱 I’m currently pursuing Data Science & Machine Learning 
 - 💞️ I’m looking to collaborate on Data Science project
