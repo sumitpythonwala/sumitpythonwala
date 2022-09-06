@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sumitpythonwala
+- 👋 Hi, I’m Sumit Mahajan
 - 👀 I’m interested in python, selenium, jira, web development, github, data science, machine learning, reactjs
-- 🌱 I’m currently learning Python, Data Science & Machine Learning 
-- 💞️ I’m looking to collaborate on professional working
+- 🌱 I’m currently pursuing Data Science & Machine Learning 
+- 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me 
 - linkedin
 - watsapp 9669275476
